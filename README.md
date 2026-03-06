@@ -58,8 +58,8 @@ pydantic
 ## Mitä voisi lisätä
 Mikäli palvelua pitäisi parannella voisi lisätä tai muuttaa seuraavia asioita:
 - Testikattavuutta ominaisuuksille, vaikkakin tässä työssä on vain niukasti niitä
-- Requests-kirjaston tialle voisi vaihtaa jonkin asynkronisen kirjaston hakujen tehostamiseksi
-- Autentikointi ainakin analyze-endpoint POST-kutsuun
+- Requests-kirjaston tilalle voisi vaihtaa jonkin asynkronisen kirjaston hakujen tehostamiseksi
+- Autentikointi ainakin analyze-endpoint POST-kutsuun, ja tulevaisuudessa vastaaviin
 
 ## Tekoäly
 Tekoälyä käytettiin pohjasovelluksen tekemiseen sekä hyvien docker-compose konfiguraatioiden luomiseen.
