@@ -11,16 +11,16 @@ Varmista, että koneellasi on Docker ja Docker Compose asennettuna.
 
 1. Kloonaa repositorio.
 2. Käynnistä palvelu komennolla:
-   ```bash
+   ```
    docker-compose up --build
    ```
 
    API löytyy:
-   ```bash
+   ```
    http://localhost:8000
-   ```bash
+   ```
    ja sitä voi helposti käyttää Swagger-dokumentaation kautta:
-   ```bash
+   ```
    http://localhost:8000/docs
    ```
 
